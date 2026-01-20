@@ -51,7 +51,7 @@ h1 {
 }
 .pricing {
   display: flex;
-  align-items: anchor-center;
+ align-items: anchor-center;
   gap: 25px;
   margin-top: 15px;
 }
